@@ -51,9 +51,9 @@ The application uses **Haar Cascade classifiers** to detect faces and eyes from 
 
 pip install -r requirements.txt
 
-###2️⃣ Run the Flask App
+2️⃣ Run the Flask App
 python app.py
 
-###3️⃣ Open in Browser
+3️⃣ Open in Browser
 http://127.0.0.1:5000/
 
